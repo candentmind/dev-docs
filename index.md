@@ -42,7 +42,7 @@ Contribute features and fixes to one of the upstream projects that the micro:bit
 
 Help us build a brilliant hardware ecosystem around micro:bit - derivative boards, cool accessories and add ons, or even suggestions for future versions of the micro:bit.
 
-  * The [micro:bit schematic](/hardware/schematic/) and [reference design](/hardware/reference-design) are good places to start for making your own projects
+  * The [micro:bit schematic]({{ site.baseurl }}{% link /hardware/schematic/ %}) and [reference design](/hardware/reference-design) are good places to start for making your own projects
   * The [accessories guide](https://microbit.org/buy/accessories/) gives you an idea of what's currently available.
 
 ### Write
